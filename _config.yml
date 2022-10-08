@@ -7,8 +7,8 @@ highlighter: null
 markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
-url: https://heliumjk.github.io
-baseurl: "/heliumjk.github.io"
+url: https://maham-misbah.github.io/Counter-UAV-system.github.io/
+baseurl: "/Counter-UAV-system.github.io"
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
@@ -21,8 +21,8 @@ google_ad_client:
 post_limit: 5
 
 
-title : Helium Jekyll
-tagline: Bootstrap 4 UI kit for jekyll
+title : Counter UAV Systems
+tagline: Project Details
 author : 
   name : Antonio Trento
   site: https://lantoniotrento.github.io
